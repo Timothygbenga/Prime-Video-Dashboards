@@ -40,7 +40,8 @@ This project looks into the performance of Prime Video with respect to the follo
    
 The dashboard below summarizes what we intend to investigate:
 
-![full page](https://github.com/Timothygbenga/Prime-Video-Dashboard/assets/154624761/5bf52ac6-0875-4bcc-b1de-8f5641e8dab8)
+![Screenshot (24)](https://github.com/Timothygbenga/Prime-Video-Dashboards/assets/154624761/1ba6a39d-4e02-459d-bb8f-dfd9eeea9cec)
+
 
 ### Data Sources
 ---
@@ -75,18 +76,21 @@ As a result of large volume of customers across the world on the streaming platf
 
 ### 1. Performance of tv series and movies between 2017 to 2019
 
+![Screenshot (25)](https://github.com/Timothygbenga/Prime-Video-Dashboards/assets/154624761/6d69d5d3-2f15-4d20-974d-8c60c3f3f86b)
 
-The y-axis shows the distinct count of show IDs while the x-axis shows the month  and year updates were made, however we are not limited to what is displayed on the dashboard, we can use the filter at the top right corner to filter the years we want to display. The dashboard also revealaed there are 147 movies and 37 shows.
+The y-axis shows the distinct count of show IDs while the x-axis shows the month  and year updates were made, however we are not limited to what is displayed on the dashboard, we can use the filter at the top right corner to filter the years we want to display. The dashboard also revealaed there are 1546 distinct movies and 803 shows.
+
 
 ### 2. What are the top 10 genres as viewed by the subscibers?
 
-![edited top 10](https://github.com/Timothygbenga/Prime-Video-Dashboard/assets/154624761/91c01664-46d9-452c-8a6c-325f2684333c)
+![top  10](https://github.com/Timothygbenga/Prime-Video-Dashboards/assets/154624761/ecb47ec3-0fb5-4659-b959-b78dd7a94133)
 
 The gradient color combinations at the bottom right indicates the strenght of the genre. Light red is at the top while the bottom is children and family movies. Documentary is the most watched genre with a distinct count of 299 while the least is children and family movies.
 
 ### 4. What is the most rated movie?
 
-![Rating](https://github.com/Timothygbenga/Prime-Video-Dashboard/assets/154624761/7aa7899d-7bec-47f7-bb9a-9522306b461c)
+![Screenshot (24)](https://github.com/Timothygbenga/Prime-Video-Dashboards/assets/154624761/77efc844-4ace-4781-b458-cc8260b9b8ad)
+
 
 Finally, The most rated genre is TV-MA (i.e mature audience only) with 2,027 ratings while the least is NC-17 (i.e under age 18) with 2.
 
